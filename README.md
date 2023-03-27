@@ -6,6 +6,10 @@ This is a project to develop a indoor navigation application for the visually im
 
 Additionally, their is a hardware component created that can be mounted to a user's mobild device that contains a libar to detect object infront of the user during navigation. If an object is detected within 2m, the device would vibrate indicating a warning to the user. 
 
+## Goal of Eye Guide
+
+The overall goal of this project is to develop a mobile application that will allow a visually imparied user to navigate a building, such as malls, hospitals, and schools, with minimal to no hardware and at a low and affordable cost. With successful accomplishment of this goal, integration with Google Maps outdoor navigation for the visually impaired can allow a visually imparied user to both navigate themselves to a building and within the building.
+
 ## Project Structure
 
 - React Native for the mobile interface (JavaScript)
@@ -15,4 +19,4 @@ Additionally, their is a hardware component created that can be mounted to a use
 
 ### Current collaborators
 
-After March 2023, this project will be continued by only Girujan Naguleswaran and will potentially be set to be worked in a open source perspective. This repo is considered the main repo for the continuation of the project and will be continued to be developed with assistance from people with visually impariments.
+After March 2023, this project will be continued by Girujan Naguleswaran and will potentially be set to be worked in a open source perspective. This repo is considered the main repo for the continuation of the project and will be continued to be developed with assistance from people with visually impariments.
