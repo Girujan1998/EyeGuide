@@ -19,4 +19,4 @@ The overall goal of this project is to develop a mobile application that will al
 
 ### Current collaborators
 
-After March 2023, this project will be continued by Girujan Naguleswaran and will potentially be set to be worked in a open source perspective. This repo is considered the main repo for the continuation of the project and will be continued to be developed with assistance from people with visually impariments.
+After March 2023, this project will be continued by Girujan Naguleswaran and will potentially be set to be worked in a open source perspective. This repo is considered the main repo for the continuation of the project and will be developed with assistance from people with visually impariments.
