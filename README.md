@@ -13,7 +13,7 @@ The overall goal of this project is to develop a mobile application that will al
 ## Project Structure
 
 - React Native for the mobile interface (JavaScript)
-- Django for the backend interface (Python)
+- Django for the backend interface (Python) - https://github.com/Girujan1998/EyeGuide-backend
 - Postgres SQL for the database architecture
 - Arduino to program the Arduino Nano BLE used to take input from the lidar device
 
