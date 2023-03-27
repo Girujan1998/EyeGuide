@@ -1,14 +1,14 @@
-# EyeGuide
+# Eye Guide
 
-This is an archived repo to store the original structure of the code for the Eye Guide project. The Eye Guide project is continued in another repo within this Github account to allow for original prototype and RND code to stay unaffected. 
+## About the project
 
-Collabotors for the original prototype:
+This is a project to develop a indoor navigation application for the visually impaired. A person can map out a building from anywhere using Google Maps and a Android phone/tablet. Then a visually imparied user can use the Android OS Accessibility Talk Back feature programmed into their device to navigate the application to select the building they are in, starting room location, and destination room location. The mobile application will then provide audio instructions to the user to navigate them throughout the building by detecting distance travelled using pedometer to count steps and determining bearing using magnotometer. 
 
-- Girujan Naguleswaran
-- Salmaan Khan 
-- Connor Sweet
-- Amio Rahman
-- Muaaz Mahmud
+Additionally, their is a hardware component created that can be mounted to a user's mobild device that contains a libar to detect object infront of the user during navigation. If an object is detected within 2m, the device would vibrate indicating a warning to the user. 
 
-Going forward Girujan Naguleswaran would be taking over the project and continuing development in _______ repo.
+## Project Structure
 
+- React Native for the mobile interface (JavaScript)
+- Django for the backend interface (Python)
+- Postgres SQL for the database architecture
+- Arduino to program the Arduino Nano BLE used to take input from the lidar device
